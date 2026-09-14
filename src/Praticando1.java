@@ -8,7 +8,7 @@ public class Praticando1 {
         sc.nextLine();
 
         System.out.println("Qual a forma de pagamento: ");
-        String formaDepagamento =  sc.nextLine();
+        String formaDepagamento = sc.nextLine();
 
         if(formaDepagamento.equalsIgnoreCase("Avista")){
             double valorComDesconto = valorProduto -(valorProduto*0.10);
