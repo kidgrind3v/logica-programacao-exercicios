@@ -6,12 +6,12 @@ public class Praticando2 {
         Scanner sc = new Scanner(System.in);
         System.out.println("### FRETE CALCULATE ####");
 
-        System.out.println("Digite o peso por (KG): ");
+        System.out.println("Digite o peso em (KG): ");
         double peso = sc.nextDouble();
         sc.nextLine();
 
-        System.out.println("Digite a distacia por (km): ");
-        int  distancia = sc.nextInt();
+        System.out.println("Digite a distacia em (km): ");
+        int distancia = sc.nextInt();
         sc.nextLine();
         double precoPorkm;
 
