@@ -18,7 +18,7 @@ public class Praticando1 {
             System.out.println("Quer parcela em quantas vezes?");
             int quantidadeDeParcelas = sc.nextInt();
 
-            double valorParcela = valorProduto /  quantidadeDeParcelas;
+            double valorParcela = valorProduto / quantidadeDeParcelas;
 
             if(valorParcela < 50){
             System.out.println("Não é possivel parcelar dessa forma, parcela ficaria menor que R$: 50");
