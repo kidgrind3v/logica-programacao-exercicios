@@ -20,8 +20,7 @@ ao intermediário, antes de avançar para Orientação a Objetos.
 - IntelliJ IDEA
 
 ## 📁 Estrutura
-Cada exercício está organizado em [descreva aqui: pasta própria / numeração / por tema],
-com o enunciado e a resolução.
+Cada exercício está organizado em logica-programacao-exercicio/src/
 
 ## 🚀 Status
 Em andamento — novos exercícios são adicionados conforme avanço nos estudos.
