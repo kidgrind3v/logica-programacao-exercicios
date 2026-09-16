@@ -8,13 +8,13 @@ public class Praticando1 {
         sc.nextLine();
 
         System.out.println("Qual a forma de pagamento: ");
-        String formaDepagamento = sc.nextLine();
+        String formaDePagamento = sc.nextLine();
 
-        if(formaDepagamento.equalsIgnoreCase("Avista")){
+        if(formaDePagamento.equalsIgnoreCase("Avista")){
             double valorComDesconto = valorProduto -(valorProduto*0.10);
             System.out.println("Valor com desconto: " + "R$: " + valorComDesconto);
 
-        } else if(formaDepagamento.equalsIgnoreCase("Parcelar")){
+        } else if(formaDePagamento.equalsIgnoreCase("Parcelar")){
             System.out.println("Quer parcela em quantas vezes?");
             int quantidadeDeParcelas = sc.nextInt();
 
