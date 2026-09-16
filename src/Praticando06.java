@@ -7,7 +7,7 @@ public class Main {
           System.out.println("Digite o valor para iniciar a tabuada: ");
           int valorDigitado = sc.nextInt();
           
-          for(int i = 1; i <= limitel; i++){
+          for(int i = 1; i <= limite; i++){
           	int resultado = valorDigitado * i;
           	System.out.println(valorDigitado+" X "+i+" = "+resultado);
           }
