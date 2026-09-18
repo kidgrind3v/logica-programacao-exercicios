@@ -33,19 +33,3 @@ public class Praticando2 {
     }
 }
 
-/*leia peso
-leia distancia
-
-se peso <= 5
-    precoPorKm = 2.00
-senao
-    precoPorKm = 3.50
-fimse
-
-valorFrete = precoPorKm * distancia
-
-se distancia > 100
-    valorFrete = valorFrete + (valorFrete * 0.15)
-fimse
-
-escreva("Valor final do frete: " + valorFrete)*/
